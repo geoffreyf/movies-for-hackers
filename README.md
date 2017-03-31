@@ -55,8 +55,11 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Imitation Game](http://www.imdb.com/title/tt2084970/)                                 | Drama/Thriller            | 2014 | 8.2/10 |
 | [Pi](http://www.imdb.com/title/tt0138704/)                                                 | Drama/Mystery             | 1998 | 7.5/10 |
 | [Primer](http://www.imdb.com/title/tt0390384/)                                             | Drama/Thriller            | 2004 | 7.0/10 |
-| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 | 
-
+| [Listening](http://www.imdb.com/title/tt3153582/)                                          | Thriller/Drama            | 2014 | 5.6/10 |
+| [Three Days of the Condor](http://www.imdb.com/title/tt0073802/)                           | Thriller/Drama            | 1975 | 
+|
+| [Colossus: The Forbin Project](http://www.imdb.com/title/tt0064177/)                       | Thriller/Drama            | 1970 | 
+| 
 ## Science Fiction / Fantasy
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
